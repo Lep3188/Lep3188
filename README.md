@@ -18,6 +18,12 @@ The stuff here is what I've built for tasks, work or just self-benefit — hopef
 
 ### 💬 How to reach me
 
-[LinkedIn](https://pr.linkedin.com/in/luis-e-peralta-martinez-601057141) · [GitHub](https://github.com/Lep3188) · [Email](mailto:leperaltam@gmail.com)
+[LinkedIn](https://pr.linkedin.com/in/luis-e-peralta-martinez-601057141) · [Email](mailto:leperaltam@gmail.com)
+
+### 💖 Donations
+
+If something here saved you some time, a small tip keeps the side projects going. Totally optional — a ⭐ or a bit of feedback is just as welcome!
+
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.me/Leperaltam)
 
 Thank you for visiting my page!
