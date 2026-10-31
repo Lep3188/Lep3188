@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Luis Peralta
 
-<!--
-**Lep3188/Lep3188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **full stack engineer** from Puerto Rico 🇵🇷.<br />
+The stuff here is what I've built for tasks, work or just self-benefit — hopefully it helps someone else too 💪<br />
 
-Here are some ideas to get you started:
+⭐️ Feel free to **follow me** — I'd really appreciate your support!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Things I work with
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![VBScript](https://img.shields.io/badge/VBScript-1D3C5F?style=flat&logo=windows&logoColor=white)
+
+### 💬 How to reach me
+
+[LinkedIn](https://pr.linkedin.com/in/luis-e-peralta-martinez-601057141) · [GitHub](https://github.com/Lep3188) · [Email](mailto:leperaltam@gmail.com)
+
+Thank you for visiting my page!
